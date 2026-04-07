@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m Aaliyah 💻🌍<br>A tech-driven student and young leader passionate about building solutions that make learning more engaging, accessible, and human-centered 🤍<br><br>I’m currently strengthening my skills in software engineering while exploring projects at the intersection of technology, education, and community impact 🚀<br><br>🌱 What I’m Currently Working On<br><br>I’m building my skills through hands-on web development projects 👩🏽‍💻<br>I’m especially interested in creating platforms that connect people in meaningful ways — using tech to improve how students learn 📚 and how communities interact 🌍<br><br>🤝 What I’m Looking to Collaborate On<br>    📚 EdTech projects<br>    💻 Web development<br>    🤖 AI-driven solutions<br>    🌍 Real-world problem solving (especially impacting youth & women)<br><br>🧠 What I’m Looking for Help In<br>    ⚙️ Backend development<br>    🏗️ Building real-world, scalable projects<br>   🌱 Open-source contributions<br>   🎯 Internship opportunities & guidance<br><br>📚 What I’m Currently Learning<br>     💻 Software Engineering<br>     🌐 Web Development (HTML, CSS, JavaScript)<br>     🤖 AI Fundamentals<br><br>💬 Ask Me About<br>    🚀 Tech & building projects<br>    🌱 Personal growth & consistency<br>    🎤 Leadership experiences<br>    💡 Turning ideas into real solutions<br><br>🎉 Fun Fact<br>    I’m building an AI-powered solution that matches students with their ideal mentors 🤝✨
 
-<!--
-**Aaliyah5D/aaliyah5d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miss.aaliyah_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaliyah-dube) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@ah.liyah_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@theegreat_liyah) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aaliyah5D&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aaliyah5D&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliyah5D&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
